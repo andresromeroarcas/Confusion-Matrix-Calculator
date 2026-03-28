@@ -36,12 +36,12 @@ A modern, web-based tool for calculating machine learning model performance metr
 
 ## 🌐 Live Demo
 
-**[Try it now!](https://romeroarcasandres.github.io/Confusion-Matrix-Calculator/confusion-matrix-calculator.html)**
+**[Try it now!](https://andresromeroarcas.github.io/Confusion-Matrix-Calculator/confusion-matrix-calculator.html)**
 
 ## 💻 Getting Started
 
 ### Option 1: Use Online (Recommended)
-1. Visit the [live demo](https://romeroarcasandres.github.io/Confusion-Matrix-Calculator/confusion-matrix-calculator.html)
+1. Visit the [live demo](https://andresromeroarcas.github.io/Confusion-Matrix-Calculator/confusion-matrix-calculator.html)
 2. Enter your confusion matrix values
 3. Click "Calculate" to see all metrics instantly!
 
